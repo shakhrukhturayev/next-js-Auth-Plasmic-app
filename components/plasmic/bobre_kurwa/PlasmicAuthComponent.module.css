@@ -1,0 +1,141 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  background: #ffffff;
+  height: 600px;
+  min-width: 0;
+  border-radius: 10px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  align-content: stretch;
+  min-width: 0;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 16px;
+}
+.rootisSignUpFlow {
+  height: 600px;
+}
+.text___8GvpM {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  text-align: center;
+  font-size: 22px;
+}
+.emailInput:global(.__wab_instance) {
+  max-width: 830px;
+  position: relative;
+}
+.emailInputisSignUpFlow:global(.__wab_instance) {
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 830px;
+}
+.svg__ye1Nz {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__vq6Ju {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.passwordInput:global(.__wab_instance) {
+  max-width: 830px;
+  position: relative;
+}
+.passwordInputisSignUpFlow:global(.__wab_instance) {
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 830px;
+}
+.svg__wtDej {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__ue7US {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.submiButton:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+  background: linear-gradient(
+      var(--token-nd9tWjNBRhuz),
+      var(--token-nd9tWjNBRhuz)
+    ),
+    #070707;
+  color: var(--token-jgohepLVeKvh);
+  width: 100%;
+  text-align: center;
+  align-self: center;
+  display: block;
+  overflow: visible;
+  margin-top: calc(10px + 16px) !important;
+  margin-bottom: 10px;
+  height: 50px;
+  min-width: 0;
+  flex-shrink: 0;
+  padding: 0px;
+}
+.submiButtonisSignUpFlow:global(.__wab_instance) {
+  padding-left: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 830px;
+  margin-top: calc(10px + 16px) !important;
+}
+.text___4FomD {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  text-align: center;
+  min-width: 0;
+  padding: 10px;
+}
+.text__lPsC {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  text-align: center;
+  min-width: 0;
+}
+.button:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: auto;
+}
+.svg__iiNmo {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__aEkpL {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}

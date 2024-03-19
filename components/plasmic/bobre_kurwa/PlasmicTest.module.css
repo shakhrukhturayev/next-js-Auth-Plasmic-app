@@ -1,0 +1,35 @@
+._44444 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+  justify-self: flex-start;
+  margin-right: 0px;
+}
+._44444type {
+  align-items: center;
+  justify-content: center;
+}
+.button__woYyd:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__lvzx4 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.buttontype {
+  color: #e8e8e3;
+  font-style: normal;
+}
+.svg__qJlsB {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
